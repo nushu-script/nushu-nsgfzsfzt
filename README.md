@@ -7,7 +7,7 @@
 ## 用法<br/>Usage
 
 ```
-https://cdn.jsdelivr.net/gh/nushu-script/nushu-nsgfzsfzt@latest/𛅰.jpg
+https://cdn.jsdelivr.net/gh/nushu-script/nushu-nsgfzsfzt@20200722/%F0%9B%85%B0.jpg
 ```
 
 文件名可以是 396 个女书字符之一。<br/>The file name can be any of the 396 Nushu characters.

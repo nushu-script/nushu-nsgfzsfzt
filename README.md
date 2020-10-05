@@ -12,6 +12,6 @@ https://cdn.jsdelivr.net/gh/nushu-script/nushu-nsgfzsfzt@latest/𛅰.jpg
 
 文件名可以是 396 个女书字符之一。<br/>The file name can be any of the 396 Nushu characters.
 
-## 授权条款<br/>
+## 授权条款<br/>License
 
 见《女书规范字书法字帖》。<br/>See _Calligraphy Copybook of Nushu Standard Characters_.
